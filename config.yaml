@@ -1,0 +1,13 @@
+db:
+  url: ""
+  user: "dev"
+  password: "dev.,!@10"
+server:
+  port: "8080"
+app:
+  env: "development"
+email:
+  smtp_host: "smtp.gmail.com"
+  smtp_port: "587"
+  api_key: ""
+  pri_key: ""
